@@ -1,1 +1,13 @@
+| Column | Naam            |
+| ------ | --------------- |
+| A      | Test Case ID    |
+| B      | Module          |
+| C      | Test Scenario   |
+| D      | Preconditions   |
+| E      | Test Steps      |
+| F      | Test Data       |
+| G      | Expected Result |
+| H      | Actual Result   |
+| I      | Status          |
+| J      | Priority        |
 
