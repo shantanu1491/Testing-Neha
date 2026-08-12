@@ -1,4 +1,4 @@
-# Test Scenarios – E-Commerce Application
+# Test Scenarios – E-Commerce Application.
 
 ## 1. Login
 
